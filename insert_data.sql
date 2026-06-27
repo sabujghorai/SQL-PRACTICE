@@ -43,3 +43,4 @@ select * from users; -- usually select all data and shows the data
 
 select name,gender from users; -- will show the name and gender from users table
 
+select * from users where gender= 'female' ; -- will show those data where gender is female
